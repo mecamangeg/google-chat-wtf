@@ -1,5 +1,7 @@
 # Google Search ChatGPT Chatbot
 
+https://www.youtube.com/watch?v=NybojHhnv_8&t=69s
+
 This is a chatbot that uses the OpenAI API to generate a Google search query based on the given question and then searches Google with that search query and answers the question based on the Google search results.
 
 Watch the YouTube video where I made it here: https://www.youtube.com/watch?v=NybojHhnv_8
